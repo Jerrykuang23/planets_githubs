@@ -11,6 +11,7 @@ a
 a
 a
 
+<<<<<<< HEAD
 
 b
 b
@@ -20,3 +21,8 @@ bb
 b
 b
 
+=======
+Hello, world!!!!!!!
+>>>>>>> 796a47a30c283e7608d470ef45bd78c6b7d51f53
+
+Hello world again again and again
